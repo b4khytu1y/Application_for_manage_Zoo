@@ -62,9 +62,9 @@ This project is a C# Windows Forms application designed to manage zoo animals. T
 5. **Submit a pull request**:
    - Create a pull request on GitHub to merge your changes into the main repository.
 
-**Login**
+# Login
 ![image](https://github.com/b4khytu1y/Application_for_manage_Zoo/assets/96124329/17238ef8-be25-4744-8783-e7aae96a5009)
-**Register**
+# Register
 ![image](https://github.com/b4khytu1y/Application_for_manage_Zoo/assets/96124329/c21d57e3-025a-4d0e-88fd-d47414e1a6f5)
-**Main Page**
+# Main Page
 ![image](https://github.com/b4khytu1y/Application_for_manage_Zoo/assets/96124329/9c7cca69-af40-4c3a-b067-708b4d7c4dd3)
